@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import logging
 
-logging.basicConfig(level = logging.INFO, format = '[%(asctime)s]: %(message)s:')
+logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
 project_name = "cnnClassifier"
@@ -19,17 +19,20 @@ list_of_files = [
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "dvc.yaml",
-    "prams.yaml",
+    "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb",
+    "research/trials.ipynb",
     "templates/index.html"
 
+
 ]
+
 
 for filepath in list_of_files:
     filepath = Path(filepath)
     filedir, filename = os.path.split(filepath)
+
 
     if filedir !="":
         os.makedirs(filedir, exist_ok=True)
