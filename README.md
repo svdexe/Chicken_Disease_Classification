@@ -83,9 +83,25 @@ Chicken-Disease-Classification/
 
 ## 🖼️ Website Interface
 
-![Chicken Disease Classifier Interface](path_to_your_screenshot.png)
+The PoultryPro web interface provides an intuitive and user-friendly way to interact with our AI-powered Chicken Health Analyzer. Here are some key features of the interface:
 
-*Add a brief description of your web interface and its features here.*
+1. **Upload Image**: Users can easily upload chicken fecal images for analysis.
+2. **Instant Analysis**: With a single click, the AI model analyzes the uploaded image.
+3. **Clear Results Display**: Analysis results are displayed in a clean, easy-to-read format.
+4. **Responsive Design**: The interface is designed to work seamlessly on various device sizes.
+
+### Screenshot 1: Main Interface
+![PoultryPro Main Interface](https://github.com/svdexe/Chicken_Disease_Classification/blob/main/screenshot/homepage.png)
+
+This screenshot shows the main interface of PoultryPro. It features a clean layout with an area to upload and display the image, and a section to show analysis results.
+
+### Screenshot 2: Analysis Results
+![PoultryPro Analysis Results](https://github.com/svdexe/Chicken_Disease_Classification/blob/main/screenshot/result%20image.png)
+
+This screenshot demonstrates the analysis results for a sample image. The interface clearly displays the detected condition (in this case, "Coccidiosis") based on the AI model's analysis.
+
+The web interface is designed to be intuitive, allowing users to quickly upload images and receive instant analysis results, making it an efficient tool for poultry health management.
+
 
 ## 🚀 Installation
 
