@@ -278,8 +278,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## Additional Resources
-- [Medium Article](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7) - Read the detailed project review on Medium.
-- [GitHub Repository](https://github.com/svdexe/NLP_TextSummarizer) - Access the code and project files.
+- [Medium Article](https://medium.com/@SVD.exe/chicken-disease-classification-a-deep-learning-approach-to-poultry-health-32d17b8033d7) - Read the detailed project review on Medium.
+- [GitHub Repository](https://github.com/svdexe/Chicken_Disease_Classification) - Access the code and project files.
 - [LinkedIn](https://www.linkedin.com/in/shivam-dali-86b0a1201/) - Connect with me on LinkedIn.
 
 ## Tutorial Link
